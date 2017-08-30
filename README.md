@@ -1,2 +1,3 @@
 # hello-world
-example repository
+
+learning about github
